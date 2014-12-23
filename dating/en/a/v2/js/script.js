@@ -1,1 +1,0 @@
-jQuery(document).ready(function($){var obj=$('.box_special');adjustPosition(obj);$(window).resize(function(){adjustPosition(obj);});});
